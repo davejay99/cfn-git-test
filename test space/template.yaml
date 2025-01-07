@@ -1,0 +1,3 @@
+Resources:
+  SNS:
+    Type: AWS::SNS::Topic
