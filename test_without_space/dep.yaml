@@ -1,3 +1,3 @@
-template-file-path: repo1/sns.yaml
+template-file-path: repo with space/sns.yaml
 parameters: {}
 tags: {}
